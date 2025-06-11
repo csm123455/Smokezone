@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:fitsSystemWindows="true"
+    tools:context=".MapActivity">
+
+    <com.naver.maps.map.MapView
+        android:id="@+id/map_view"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+        <Button
+            android:id="@+id/navigateButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="end|top"
+            android:layout_marginTop="45dp"
+            android:layout_marginEnd="16dp"
+            android:text="길찾기" />
+
+        <Button
+            android:id="@+id/editModeButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="90dp"
+            android:layout_marginEnd="16dp"
+            android:text="Edit Mode" />
+
+        <Button
+            android:id="@+id/findNearBtn"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="45dp"
+            android:layout_marginEnd="16dp"
+            android:text="주변 찾기" />
+    </com.naver.maps.map.MapView>
+
+    <com.naver.maps.map.widget.LocationButtonView
+        android:id="@+id/currentLocationButton"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center|end"
+        android:layout_marginTop="150dp"
+        android:layout_marginEnd="8dp" />
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

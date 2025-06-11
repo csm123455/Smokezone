@@ -1,0 +1,38 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.smokezone.app-mergeDebugResources-3:/values-v16/values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\cho\\AndroidStudioProjects\\caches\\transforms-3\\72a7707df79bbaa00fe54fdbb1af9a07\\transformed\\core-1.12.0\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\cho\\AndroidStudioProjects\\caches\\transforms-3\\3bd87cda095a0b68093f9232503bae5a\\transformed\\appcompat-1.6.1\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "223"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "121",
+                        "endLines": "6",
+                        "endColumns": "12",
+                        "endOffsets": "289"
+                    }
+                }
+            ]
+        }
+    ]
+}

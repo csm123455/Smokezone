@@ -1,0 +1,230 @@
+[
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_activity_map.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/activity_map.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/drawable_ic_10.png.flat",
+        "source": "com.smokezone.app-main-7:/drawable/ic_10.png"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_item_noti.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/item_noti.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_activity_community.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/activity_community.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/drawable_no_smoke.png.flat",
+        "source": "com.smokezone.app-main-7:/drawable/no_smoke.png"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.smokezone.app-main-7:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_activity_notification.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/activity_notification.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_activity_post.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/activity_post.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_activity_message.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/activity_message.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_dialog_input.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/dialog_input.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_activity_calendar.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/activity_calendar.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.smokezone.app-main-7:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_activity_main.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_activity_post_write.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/activity_post_write.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "com.smokezone.app-main-7:/drawable-v24/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/drawable_guam.png.flat",
+        "source": "com.smokezone.app-main-7:/drawable/guam.png"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.smokezone.app-main-7:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/drawable_baseline_send_24.xml.flat",
+        "source": "com.smokezone.app-main-7:/drawable/baseline_send_24.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/drawable_smoking_area.webp.flat",
+        "source": "com.smokezone.app-main-7:/drawable/smoking_area.webp"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_calendar_day_titles_container.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/calendar_day_titles_container.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/drawable_ic_1000.png.flat",
+        "source": "com.smokezone.app-main-7:/drawable/ic_1000.png"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_item_post_comment.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/item_post_comment.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/drawable_ic_2000.png.flat",
+        "source": "com.smokezone.app-main-7:/drawable/ic_2000.png"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_info_drawer.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/info_drawer.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.smokezone.app-main-7:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_activity_login.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/drawable_baseline_add_24.xml.flat",
+        "source": "com.smokezone.app-main-7:/drawable/baseline_add_24.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/drawable_smoke.png.flat",
+        "source": "com.smokezone.app-main-7:/drawable/smoke.png"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/drawable_my_custom_circle.xml.flat",
+        "source": "com.smokezone.app-main-7:/drawable/my_custom_circle.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/drawable_woo_young_mi.png.flat",
+        "source": "com.smokezone.app-main-7:/drawable/woo_young_mi.png"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.smokezone.app-main-7:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_activity_chat_room.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/activity_chat_room.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/xml_backup_rules.xml.flat",
+        "source": "com.smokezone.app-main-7:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_activity_signup.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.smokezone.app-main-7:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.smokezone.app-main-7:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/drawable_ic_50.png.flat",
+        "source": "com.smokezone.app-main-7:/drawable/ic_50.png"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_item_chat_list.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/item_chat_list.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.smokezone.app-main-7:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.smokezone.app-main-7:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.smokezone.app-main-7:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_calendar_day_title_text.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/calendar_day_title_text.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.smokezone.app-main-7:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/xml_data_extraction_rules.xml.flat",
+        "source": "com.smokezone.app-main-7:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_comment_item.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/comment_item.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/drawable_baseline_circle_notifications_24.xml.flat",
+        "source": "com.smokezone.app-main-7:/drawable/baseline_circle_notifications_24.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_dialog_area.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/dialog_area.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.smokezone.app-main-7:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_item_post.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/item_post.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_item_smoke_area.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/item_smoke_area.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_item_chat.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/item_chat.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/drawable_ic_400.png.flat",
+        "source": "com.smokezone.app-main-7:/drawable/ic_400.png"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_calendar_day_layout.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/calendar_day_layout.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/drawable_ic_200.png.flat",
+        "source": "com.smokezone.app-main-7:/drawable/ic_200.png"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/layout_activity_find_near.xml.flat",
+        "source": "com.smokezone.app-main-7:/layout/activity_find_near.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/drawable_baseline_delete_24.xml.flat",
+        "source": "com.smokezone.app-main-7:/drawable/baseline_delete_24.xml"
+    },
+    {
+        "merged": "com.smokezone.app-merged_res-5:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.smokezone.app-main-7:/mipmap-anydpi-v26/ic_launcher.xml"
+    }
+]

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">906364502676</string>
+    <string name="google_api_key" translatable="false">AIzaSyAmwHteNKfW63ar8Njvro6x5wKOobVhYOA</string>
+    <string name="google_app_id" translatable="false">1:906364502676:android:1ba57ae6f2aed3faae6a81</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAmwHteNKfW63ar8Njvro6x5wKOobVhYOA</string>
+    <string name="google_storage_bucket" translatable="false">smokezone-25546.appspot.com</string>
+    <string name="project_id" translatable="false">smokezone-25546</string>
+</resources>

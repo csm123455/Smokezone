@@ -1,0 +1,102 @@
+[
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/activity_main.xml",
+        "source": "com.smokezone.app-main-7:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/item_post_comment.xml",
+        "source": "com.smokezone.app-main-7:/layout/item_post_comment.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/dialog_input.xml",
+        "source": "com.smokezone.app-main-7:/layout/dialog_input.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/activity_login.xml",
+        "source": "com.smokezone.app-main-7:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/calendar_day_layout.xml",
+        "source": "com.smokezone.app-main-7:/layout/calendar_day_layout.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/comment_item.xml",
+        "source": "com.smokezone.app-main-7:/layout/comment_item.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/activity_find_near.xml",
+        "source": "com.smokezone.app-main-7:/layout/activity_find_near.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/activity_map.xml",
+        "source": "com.smokezone.app-main-7:/layout/activity_map.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/dialog_area.xml",
+        "source": "com.smokezone.app-main-7:/layout/dialog_area.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/calendar_day_title_text.xml",
+        "source": "com.smokezone.app-main-7:/layout/calendar_day_title_text.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/item_smoke_area.xml",
+        "source": "com.smokezone.app-main-7:/layout/item_smoke_area.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/activity_notification.xml",
+        "source": "com.smokezone.app-main-7:/layout/activity_notification.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/item_post.xml",
+        "source": "com.smokezone.app-main-7:/layout/item_post.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/activity_calendar.xml",
+        "source": "com.smokezone.app-main-7:/layout/activity_calendar.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/activity_message.xml",
+        "source": "com.smokezone.app-main-7:/layout/activity_message.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/activity_post.xml",
+        "source": "com.smokezone.app-main-7:/layout/activity_post.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/item_chat.xml",
+        "source": "com.smokezone.app-main-7:/layout/item_chat.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/item_noti.xml",
+        "source": "com.smokezone.app-main-7:/layout/item_noti.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/activity_signup.xml",
+        "source": "com.smokezone.app-main-7:/layout/activity_signup.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/item_chat_list.xml",
+        "source": "com.smokezone.app-main-7:/layout/item_chat_list.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/activity_chat_room.xml",
+        "source": "com.smokezone.app-main-7:/layout/activity_chat_room.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/activity_post_write.xml",
+        "source": "com.smokezone.app-main-7:/layout/activity_post_write.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/activity_community.xml",
+        "source": "com.smokezone.app-main-7:/layout/activity_community.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/calendar_day_titles_container.xml",
+        "source": "com.smokezone.app-main-7:/layout/calendar_day_titles_container.xml"
+    },
+    {
+        "merged": "com.smokezone.app-mergeDebugResources-4:/layout/info_drawer.xml",
+        "source": "com.smokezone.app-main-7:/layout/info_drawer.xml"
+    }
+]
