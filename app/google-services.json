@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "906364502676",
+    "project_id": "smokezone-25546",
+    "storage_bucket": "smokezone-25546.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906364502676:android:1ba57ae6f2aed3faae6a81",
+        "android_client_info": {
+          "package_name": "com.smokezone"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmwHteNKfW63ar8Njvro6x5wKOobVhYOA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

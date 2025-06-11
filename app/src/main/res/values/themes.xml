@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.SmokeZone" parent="Theme.Material3.DayNight.NoActionBar" />
+    <!-- Base application theme. -->
+    <style name="Base.Theme.SmokeZone" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+    </style>
+
+    <style name="FullScreenBottomSheetDialog" parent="Theme.Design.Light.BottomSheetDialog">
+        <item name="bottomSheetStyle">@style/FullBottomSheetStyle</item>
+    </style>
+
+    <style name="FullBottomSheetStyle" parent="Widget.Design.BottomSheet.Modal">
+        <item name="behavior_peekHeight">256dp</item> <!-- 초기 peek height 설정, 필요에 따라 조정 -->
+        <item name="behavior_hideable">false</item> <!-- 바텀시트를 완전히 숨길 수 없도록 설정 -->
+        <item name="behavior_fitToContents">false</item> <!-- 바텀시트가 내용에 따라 크기가 조정되지 않도록 설정 -->
+    </style>
+</resources>

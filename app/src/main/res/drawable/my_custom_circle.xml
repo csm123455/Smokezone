@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="oval">
+    <solid android:color="#FF0000"/> <!-- 여기서 색상을 원하는 색으로 변경하세요 -->
+    <size
+        android:width="10dp"
+        android:height="10dp"/> <!-- 원하는 크기로 조절하세요 -->
+</shape>
